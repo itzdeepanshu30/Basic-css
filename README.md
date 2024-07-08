@@ -1,3 +1,3 @@
-# Basic Frontend project
+# Basic CSS
 
-# use HTML ,CSS ,JAVA_SCRIPT
+# UESED LANGUAGE => HTML ,CSS 
