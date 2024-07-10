@@ -1,5 +1,5 @@
 # Basic CSS
 
-Create the amozone webpage clone by Using
+Create clone amazone webpage  by Using
 
 # HTML ,CSS 
